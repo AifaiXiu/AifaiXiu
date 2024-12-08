@@ -8,7 +8,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AifaiXiu/AifaiXiu/output/github-contribution-grid-snake.svg">
 </picture>
 
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AifaiXiu)
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AifaiXiu&theme=react)
 
 ### 👨🏻‍💻 &nbsp;About Me
 
@@ -37,10 +37,10 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p display="flex">
+<p align='left'>
 <a href="https://github.com/AifaiXiu">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AifaiXiu&show_icons=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AifaiXiu&layout=compact&langs_count="/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AifaiXiu&theme=dracula&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AifaiXiu&theme=dracula&layout=compact&langs_count="/>
 </a>
 </p>
 
