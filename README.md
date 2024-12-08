@@ -2,6 +2,12 @@
 
 <!-- ## 👋 &nbsp;Hey there! I'm Aihua -->
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AifaiXiu/AifaiXiu/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AifaiXiu/AifaiXiu/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AifaiXiu/AifaiXiu/output/github-contribution-grid-snake.svg">
+</picture>
+
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions .\
@@ -31,7 +37,7 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
+<p align="left">
 <a href="https://github.com/AifaiXiu">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AifaiXiu&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AifaiXiu&layout=compact&langs_count=8&theme=algolia"/>
