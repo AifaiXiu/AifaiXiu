@@ -8,6 +8,8 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AifaiXiu/AifaiXiu/output/github-contribution-grid-snake.svg">
 </picture>
 
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AifaiXiu)
+
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions .\
@@ -17,8 +19,6 @@
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at xah1123801846@outlook.com! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!
-
-
 
 ### 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -37,10 +37,10 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="left">
+<p display="flex">
 <a href="https://github.com/AifaiXiu">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AifaiXiu&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AifaiXiu&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AifaiXiu&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AifaiXiu&layout=compact&langs_count="/>
 </a>
 </p>
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AifaiXiu)
+
