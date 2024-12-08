@@ -43,4 +43,4 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AifaiXiu&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AifaiXiu)
