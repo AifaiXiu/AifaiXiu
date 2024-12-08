@@ -8,7 +8,12 @@
 </picture>
 
 
-### 👨🏻‍💻 &nbsp;About Me
+## ⚙️ &nbsp;GitHub Analytics
+
+![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=AifaiXiu)
+
+
+## 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions .\<p align='center'>
 🎓 &nbsp;I'm currently studying Computer Science and Mathematics at the University of Massachusetts Amherst.\
@@ -18,7 +23,7 @@
 ✉️ &nbsp;You can shoot me an email at xah1123801846@outlook.com! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!
 
-### 🛠 &nbsp;Tech Stack
+## 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
@@ -33,8 +38,5 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
 ![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
 
-### ⚙️ &nbsp;GitHub Analytics
-
-![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=AifaiXiu)
 
 
