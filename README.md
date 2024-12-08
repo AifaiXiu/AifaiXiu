@@ -1,6 +1,7 @@
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h1>Hey there! I'm Aihua</h1>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Aihua -->
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AifaiXiu&theme=react)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AifaiXiu/AifaiXiu/output/github-contribution-grid-snake-dark.svg">
@@ -8,7 +9,6 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AifaiXiu/AifaiXiu/output/github-contribution-grid-snake.svg">
 </picture>
 
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AifaiXiu&theme=react)
 
 ### 👨🏻‍💻 &nbsp;About Me
 
