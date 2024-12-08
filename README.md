@@ -7,7 +7,6 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AifaiXiu/AifaiXiu/output/github-contribution-grid-snake.svg">
 </picture>
 
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AifaiXiu&theme=react)
 
 ### 👨🏻‍💻 &nbsp;About Me
 
@@ -36,7 +35,7 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align='left'>
+<p align='center'>
 <div display="flex">
   <a href="https://github.com/AifaiXiu">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AifaiXiu&theme=dracula&show_icons=true&include_all_commits=true&count_private=true"/>
@@ -44,4 +43,4 @@
 </a>
 </div>
 </p>
-
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AifaiXiu&theme=react)
